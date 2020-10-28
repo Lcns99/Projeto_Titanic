@@ -21,7 +21,10 @@ As seguintes questões foram levantadas e respondidas de forma prática(hands on
   Ao observar apenas o gráfico de barras chegamos a conclusão que os passageiros da classe 1 e 3 foram os que mais sobreviveram, porém, ao anlisar a proporção de sobreviventes por classe, chega-se a conclusão de que a classe 3 tinha um número muito grande de passageiros. Logo, ao considerar os 2 resultados analisado, pode-se afirmar que as classes foram decisivas, quem estava na primeira classe(a melhor por estar próximo aos botes) teve uma maior proporção de sobrevivência por classe e a classe 3, a pior, teve o menor número de sobreviventes por classe.
   
 3. Qual foi a quantidade de homens e mulheres que sobreviveram a tragédia?
+ A quantidade de sobreviventes foi 233 mulheres e 109 homens. Uma ótima conclusão precipitada seria as mulheres são melhores sobreviventes que os homens, rs. :)
  
 4. Qual era a faixa etária dos passageiros que estavam no Titanic?
+ A faixa etária dos passageiros é entorno dos 17-35 anos. 
+ 
 5. Quem são os passageiros que não tiveram sua tarifa cobrada? Eles sobreviveram?
-
+ Apenas um passageiro que não teve a taxa cobrada sobreviveu Tornquist, Mr. William Henry.
